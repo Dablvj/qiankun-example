@@ -1,0 +1,6 @@
+[submodule "example2"]
+	path = example2
+	url = git@github.com:fengxianqi/qiankun-example.git
+[submodule "example3"]
+	path = example3
+	url = git@github.com:a1029563229/micro-front-template.git
