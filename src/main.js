@@ -9,7 +9,7 @@ registerMicroApps([
   {
     name: 'reactApp',
     entry: '//localhost:3000',
-    container: '#container',
+    container: '#content',
     activeRule: '/app-react',
   },
 ]);
